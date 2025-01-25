@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EMERGENIE</title>
+  <link rel="stylesheet" href="stylesBM.css">
+  <style>
+    /* Popup container */
+    .popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: white;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+      border-radius: 8px;
+      text-align: center;
+      display: none;
+      z-index: 1000;
+    }
+
+    /* Overlay background */
+    .popup-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: none;
+      z-index: 999;
+    }
+
+    /* Popup buttons */
+    .popup button {
+      margin: 10px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      color: white;
+    }
+
+    .btn-secondary {
+      background-color: #6c757d;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <div class="container">
+      <div class="left-section">
+        <img src="Logo1.png" alt="Logo">
+        <h1>EmerGenie</h1>
+      </div>
+
+      <div class="right-section">
+        <div id = "bar">
+          <div id="emergencyList" class="dropdown"></div>
+          <form id="emergencyForm">
+            <input type="text" id="emergencySearch" placeholder="Cari kecemasan..." autocomplete="off">
+            
+            <button type="submit">
+              <img src="Srch_icon.png" class="searchbttn"></button>
+          </form>
+          
+        </div>
+        <div id="buttons">
+          <button id="redirectButton">Kemudahan Kesihatan Terdekat</button>
+          <button onclick="openPopup()">Bahasa</button></div>
+          
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  <!-- Popup Overlay -->
+  <div class="popup-overlay" id="popupOverlay"></div>
+
+  <!-- Popup -->
+  <div class="popup" id="popup">
+    <h2>Change your language</h2>
+    <button class="btn-primary" onclick="confirmAction()">English</button>
+    <button class="btn-secondary" onclick="closePopup()">Bahasa Melayu</button>
+  </div>
+
+  <script src="scriptBM.js"></script>
+  <script>
+    // JavaScript for Popup functionality
+    const popup = document.getElementById('popup');
+    const popupOverlay = document.getElementById('popupOverlay');
+
+    function openPopup() {
+      popup.style.display = 'block';
+      popupOverlay.style.display = 'block';
+    }
+
+    function closePopup() {
+      popup.style.display = 'none';
+      popupOverlay.style.display = 'none';
+    }
+
+    function confirmAction() {
+      window.location.href = 'index.html'; // Replace 'page4.html' with the actual path to your 4th page
+      closePopup();
+    }
+  </script>
+</body>
+</html>

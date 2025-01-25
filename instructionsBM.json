@@ -1,0 +1,270 @@
+{
+  "sakit dada yang teruk (serangan jantung)": {
+    "emergency": "Situasi ini memerlukan penjagaan profesional. Sila hubungi 999 dengan segera.",
+    "steps": [
+      "Minta individu tersebut duduk atau baring dalam posisi yang selesa.",
+      "Longgarkan pakaian yang ketat dan tenangkan individu tersebut.",
+      "Jika individu tersebut mempunyai nitrogliserin yang telah ditetapkan dan mudah dicapai, bantu mereka mengambilnya.",
+      "Pantau keadaan individu sementara menunggu bantuan perubatan tiba."
+    ]
+  },
+    "luka terbakar": {
+      "emergency": "Situasi ini memerlukan penjagaan profesional jika luka terbakar serius atau melibatkan kawasan yang besar. Segera dapatkan bantuan perubatan.",
+      "steps": [
+        "Jauhkan mangsa daripada punca luka terbakar.",
+        "Sejukkan kawasan terbakar dengan air paip yang mengalir (tidak terlalu sejuk) selama sekurang-kurangnya 20 minit.",
+        "Tanggalkan pakaian atau barang kemas berhampiran kawasan terbakar, tetapi jangan cuba menanggalkan apa-apa yang melekat pada luka terbakar.",
+        "Tutup luka dengan pembalut steril atau kain bersih (tidak melekat pada luka).",
+        "Jangan pecahkan lepuh kerana ini boleh menyebabkan jangkitan.",
+        "Jangan gunakan semburan, salap, minyak, atau mentega pada luka terbakar kerana ia boleh memerangkap haba."
+      ]
+    },
+    "keracunan": {
+      "emergency": "Situasi ini memerlukan penjagaan profesional. Jika mangsa tidak sedarkan diri, sukar bernafas, atau mengalami sawan, segera hubungi 999.",
+      "steps": [
+        "Jika mangsa sedar dan stabil, hubungi Pusat Kawalan Racun atau dapatkan bantuan perubatan.",
+        "Berikan maklumat mengenai bahan yang telah ditelan kepada pusat kawalan atau petugas perubatan, jika diketahui.",
+        "Jangan cuba menyebabkan mangsa muntah kecuali diarahkan oleh pihak perubatan.",
+        "Jangan beri makanan atau minuman kepada mangsa."
+      ]
+    },
+    "pengambilan dadah berlebihan": {
+      "emergency": "Segera dapatkan bantuan perubatan jika mangsa tidak sedarkan diri, sukar bernafas, atau mengalami sawan. Hubungi 999.",
+      "steps": [
+        "Berikan ubat penawar seperti naloxone jika ada.",
+        "Cuba pastikan mangsa kekal sedar dan bernafas.",
+        "Letakkan mangsa dalam posisi mengiring untuk mengelakkan mereka tercekik.",
+        "Temani mangsa sehingga bantuan kecemasan tiba.",
+        "Berikan maklumat tentang jenis dan jumlah dadah yang diambil kepada petugas perubatan.",
+        "Jangan cuba menyebabkan muntah kecuali diarahkan oleh pihak perubatan."
+      ]
+    },
+    "kecemasan diabetes": {
+      "emergency": "Hubungi 999 jika mangsa tidak sedarkan diri atau mengalami sawan.",
+      "steps": [
+        "Jika mangsa sedar dan menunjukkan gejala hipoglisemia, berikan gula seperti tablet glukosa, jus buah, atau minuman bergula.",
+        "Jika mangsa menunjukkan gejala hiperglisemia, galakkan mereka minum air dan dapatkan bantuan perubatan jika perlu.",
+        "Pantau keadaan mangsa dan berikan bantuan yang diperlukan.",
+        "Jika mangsa menjadi tidak responsif, periksa saluran udara mereka dan bersedia untuk melakukan CPR."
+      ]
+    },
+    "lemas": {
+      "emergency": "Jika mangsa tidak sedarkan diri atau tidak bernafas, hubungi 999 dengan segera dan mulakan CPR.",
+      "steps": [
+        "Segera keluarkan mangsa dari air, jika mampu.",
+        "Panggil penjaga pantai atau dapatkan bantuan.",
+        "Lemparkan alat apungan atau hulurkan kayu panjang kepada mangsa.",
+        "Jika anda perenang terlatih, selamatkan mangsa secara langsung.",
+        "Letakkan mangsa di permukaan kering dalam keadaan berbaring.",
+        "Periksa pernafasan dan denyut nadi. Jika tiada pernafasan, mulakan CPR.",
+        "Jika mangsa bernafas, letakkan mereka dalam posisi pemulihan dan pantau keadaan."
+      ]
+    },
+    "strok haba": {
+      "emergency": "Strok haba adalah kecemasan perubatan. Segera dapatkan bantuan perubatan.",
+      "steps": [
+        "Bawa mangsa ke tempat yang lebih sejuk dan tanggalkan pakaian berlebihan.",
+        "Sejukkan badan mangsa dengan menyembur atau membasahkan mereka dengan air sejuk sambil mengipas.",
+        "Letakkan pek ais atau kain basah yang sejuk di leher, ketiak, dan pangkal paha.",
+        "Jika mangsa mampu menelan, beri mereka air sejuk untuk diminum."
+      ]
+    },
+    "hipotermia": {
+      "emergency": "Segera dapatkan bantuan perubatan jika keadaan mangsa tidak bertambah baik.",
+      "steps": [
+        "Tangani dengan lembut dan elakkan pergerakan kasar pada mangsa.",
+        "Pindahkan mangsa ke tempat yang lebih panas dan tanggalkan pakaian basah.",
+        "Selimutkan mangsa dengan kain tebal atau pakaian hangat, termasuk kepala dan leher.",
+        "Pastikan badan mangsa tidak bersentuhan dengan tanah yang sejuk.",
+        "Pantau pernafasan mangsa.",
+        "Jika mangsa sedar dan boleh menelan, berikan minuman hangat."
+      ]
+    },
+    
+
+
+
+    
+      "strok (kecederaam cerebrovaskular)": {
+        "emergency": "Segera hubungi perkhidmatan kecemasan 999.",
+        "steps": [
+          "Pastikan mangsa tenang dan yakinkan mereka bahawa bantuan akan diberikan.",
+          "Jika mangsa sedar, bantu mereka baring dengan kepala dan bahu sedikit tinggi.",
+          "Jangan berikan makanan atau minuman kepada mangsa.",
+          "Pantau keadaan mangsa sementara menunggu bantuan perubatan."
+        ]
+      },
+      "reaksi alergi teruk (anaphylaxis)": {
+        "emergency": "Segera hubungi perkhidmatan kecemasan 999.",
+        "steps": [
+          "Bantu mangsa duduk atau baring dalam kedudukan yang selesa.",
+          "Jika mangsa mempunyai penyuntik epinefrin (EpiPen), bantu mereka menggunakannya.",
+          "Pantau pernafasan dan tanda-tanda vital mangsa.",
+          "Temani mangsa sehingga bantuan tiba."
+        ]
+      },
+      "serangan asma": {
+        "emergency": "Segera hubungi perkhidmatan kecemasan 999 jika simptom semakin teruk atau mangsa sukar bernafas.",
+        "steps": [
+          "Bantu mangsa duduk tegak dan gunakan inhaler mereka.",
+          "Galakkan mereka bernafas perlahan dan dalam.",
+          "Yakinkan mangsa dan temani mereka sehingga bantuan tiba."
+        ]
+      },
+      "tercekik": {
+        "emergency": "Jika mangsa tidak sedarkan diri, segera hubungi 999 dan mulakan CPR.",
+        "steps": [
+          "Galakkan mangsa batuk dengan kuat.",
+          "Jika mangsa tidak boleh bercakap, bernafas, atau batuk, lakukan tekanan abdomen (Heimlich maneuver).",
+          "Terus berikan bantuan sehingga bantuan perubatan tiba."
+        ]
+      },
+      "pendarahan teruk (hemorrhage)": {
+        "emergency": "Segera hubungi perkhidmatan kecemasan 999 jika pendarahan tidak berhenti atau sangat teruk.",
+        "steps": [
+          "Tanggalkan pakaian atau benda di sekitar luka.",
+          "Tekan luka dengan kain bersih atau pembalut.",
+          "Bantu mangsa baring dengan selesa.",
+          "Tambahkan pembalut jika perlu.",
+          "Pantau keadaan mangsa sementara menunggu bantuan perubatan."
+        ]
+      },
+      "kecederaan kepala": {
+        "emergency": "Segera hubungi 999 jika mangsa keliru, pengsan, atau muntah.",
+        "steps": [
+          "Pastikan mangsa kekal diam dan jangan benarkan mereka bergerak.",
+          "Letakkan pek sejuk atau kain pada kawasan cedera untuk mengurangkan bengkak.",
+          "Pantau keadaan mangsa dan segera dapatkan bantuan perubatan."
+        ]
+      },
+      "sawan": {
+        "emergency": "Jika sawan berlanjutan lebih dari lima minit, segera hubungi 999.",
+        "steps": [
+          "Hanya alihkan mangsa jika mereka dalam bahaya, seperti berhampiran jalan sibuk atau dapur panas.",
+          "Sokong kepala mereka dengan sesuatu yang lembut jika mereka berada di lantai.",
+          "Longgarkan pakaian ketat di leher untuk membantu pernafasan.",
+          "Selepas sawan berhenti, baringkan mereka ke sisi.",
+          "Temani mereka dan bercakap dengan tenang sehingga mereka pulih.",
+          "Catat masa mula dan tamat sawan."
+        ]
+      },
+      "kejutan (shock)": {
+        "emergency": "Segera hubungi 999 jika mangsa menunjukkan tanda kejutan teruk.",
+        "steps": [
+          "Baringkan mangsa rata dan angkat kaki mereka sedikit jika tiada kecederaan tulang belakang.",
+          "Pastikan mangsa diam, hangat, dan selesa.",
+          "Longgarkan pakaian ketat dan selimutkan mangsa jika perlu untuk elakkan kesejukan.",
+          "Pantau keadaan mangsa dan yakinkan mereka."
+        ]
+      },
+      "patah tulang (fraktur)": {
+        "emergency": "Segera hubungi 999 jika patah melibatkan kepala, leher, atau tulang belakang.",
+        "steps": [
+          "Tanggalkan pakaian di kawasan cedera. Jika menyakitkan, gunting pakaian tersebut.",
+          "Jangan cuba menggerakkan atau membetulkan kedudukan anggota yang cedera.",
+          "Imobilisasikan kawasan cedera dengan anduh atau bahan improvisasi.",
+          "Letakkan pek sejuk atau kain untuk mengurangkan bengkak dan kesakitan.",
+          "Pantau keadaan mangsa dan segera dapatkan bantuan perubatan."
+        ]
+      },
+      "jantung terhenti (cardiac arrest)": {
+        "emergency": "Segera hubungi 999 dan mulakan CPR.",
+        "steps": [
+          "Gunakan defibrilator luaran automatik (AED) jika ada dan ikut arahan.",
+          "Teruskan CPR sehingga bantuan tiba."
+        ]
+      },
+      "sakit dada (angina)": {
+        "emergency": "Segera hubungi perkhidmatan kecemasan 999 jika simptom bertambah buruk atau berterusan.",
+        "steps": [
+          "Minta mangsa berhenti daripada melakukan sebarang aktiviti dan bantu mereka duduk.",
+          "Tenangkan mangsa dan pastikan mereka selesa.",
+          "Jika mangsa mempunyai nitrogliserin yang telah ditetapkan, bantu mereka mengambilnya.",
+          "Pantau keadaan mangsa."
+        ]
+      },
+      "radang apendiks (appendicitis)": {
+        "emergency": "Segera hubungi 999.",
+        "steps": [
+          "Bantu mangsa baring dan jangan biarkan mereka bergerak.",
+          "Jangan berikan sebarang makanan atau minuman kepada mangsa.",
+          "Letakkan pek sejuk atau kain pada kawasan sakit untuk mengurangkan kesakitan.",
+          "Pantau keadaan mangsa dan tunggu sehingga bantuan perubatan sampai."
+        ]
+      },
+
+
+
+        "sakit perut teruk": {
+          "emergency": "Segera hubungi perkhidmatan kecemasan 999.",
+          "steps": [
+            "Bantu mangsa baring dan jangan biarkan mereka bergerak.",
+            "Letakkan botol air panas atau beg gandum yang dipanaskan pada perut.",
+            "Galakkan mereka mandi air suam.",
+            "Pastikan mereka minum banyak air jernih seperti air kosong.",
+            "Kurangkan pengambilan kopi, teh, dan alkohol kerana ini boleh memburukkan kesakitan.",
+            "Pantau keadaan mangsa dan tunggu bantuan perubatan."
+          ]
+        },
+        "kecederaan tulang belakang": {
+          "emergency": "Segera hubungi 999.",
+          "steps": [
+            "Pastikan mangsa tidak bergerak dan jangan alihkan mereka kecuali sangat diperlukan.",
+            "Letakkan tuala berat atau kain yang digulung di kedua-dua sisi leher atau pegang kepala dan leher untuk mengelakkan pergerakan.",
+            "Elakkan menggerakkan kepala atau leher.",
+            "Jika mangsa sedar dan bernafas, tenangkan mereka.",
+            "Jika mangsa tidak sedar atau tidak bernafas, bersedia untuk melakukan CPR.",
+            "Jangan cuba meluruskan tubuh atau mengalihkan mangsa tanpa bantuan perubatan."
+          ]
+        },
+        "kecederaan mata": {
+          "emergency": "Segera dapatkan bantuan perubatan.",
+          "steps": [
+            "Jangan gosok atau tekan mata yang cedera.",
+            "Bilas mata dengan lembut menggunakan air bersih jika terdapat serpihan atau bahan kimia.",
+            "Tutup mata yang cedera dengan kain bersih atau pembalut steril."
+          ]
+        },
+        "renjatan elektrik": {
+          "emergency": "Segera dapatkan bantuan perubatan.",
+          "steps": [
+            "Jangan sentuh mangsa jika mereka masih bersentuhan dengan sumber elektrik.",
+            "Matikan sumber elektrik jika boleh atau alihkan mangsa menggunakan objek yang tidak mengalirkan elektrik.",
+            "Periksa pernafasan dan nadi mangsa. Lakukan CPR jika perlu."
+          ]
+        },
+        "eklampsia (tekanan darah tinggi berkaitan kehamilan)": {
+          "emergency": "Segera hubungi 999.",
+          "steps": [
+            "Bantu mangsa baring di sebelah kiri untuk meningkatkan aliran darah ke jantung.",
+            "Longgarkan pakaian ketat dan pastikan mangsa kekal sejuk.",
+            "Jangan berikan makanan atau minuman kepada mangsa.",
+            "Pantau keadaan mangsa dan tunggu bantuan perubatan."
+          ]
+        },
+        "pneumotoraks (paru-paru terkempis)": {
+          "emergency": "Segera hubungi 999.",
+          "steps": [
+            "Bantu mangsa duduk dalam kedudukan yang selesa dengan sedikit membongkok ke hadapan.",
+            "Galakkan mangsa bernafas cetek untuk mengurangkan ketidakselesaan.",
+            "Jangan cuba menutup atau membuang tapak kecederaan.",
+            "Pantau keadaan mangsa dan tunggu bantuan perubatan."
+          ]
+        },
+        "pengsan (syncope)": {
+          "emergency": "Jika mangsa tidak sedarkan diri selepas satu atau dua minit, segera dapatkan bantuan perubatan.",
+          "steps": [
+            "Baringkan mangsa rata di belakang dan angkat kaki mereka lebih tinggi daripada paras jantung.",
+            "Sokong kaki mereka kira-kira 12 inci (30 cm).",
+            "Longgarkan pakaian ketat di sekitar leher dan dada.",
+            "Untuk mengelakkan pengsan berulang, jangan bangunkan mangsa terlalu cepat.",
+            "Periksa pernafasan dan nadi mangsa. Lakukan CPR jika perlu."
+          ]
+        }
+      }
+      
+    
+    
+
+  
+

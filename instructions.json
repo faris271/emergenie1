@@ -1,0 +1,265 @@
+{
+  "crushing chest pain (heart attack)": {
+    "emergency": "This situation requires professional care. Please call 999 immediately.",
+    "steps": [
+      "Have the person sit or lie down in a comfortable position.",
+      "Loosen any tight clothing and reassure the person.",
+      "If the person has been prescribed nitroglycerin and it is within reach, assist them in taking it.",
+      "Check if the person is breathing and has a pulse. If the person isn't breathing or you don't find a pulse, only then should you begin cardiopulmonary resuscitation (CPR).",
+      "Monitor the person's condition while waiting for medical help."
+    ]
+  },
+  "sudden weakness or slurred speech (stroke)": {
+    "emergency": "Call emergency services immediately (999).",
+    "steps": [
+      "Keep the person calm and reassure them.",
+      "If the person is conscious, help them lie down with their head and shoulders slightly elevated.",
+      "Do not give the person anything to eat or drink.",
+      "Monitor the person's condition while waiting for medical help."
+    ]
+  },
+  "burns or scalds": {
+    "emergency": "Remove the person from the source of the burn.",
+    "steps": [
+      "Cool the burn with cool (not cold) running water for at least 20 minutes.",
+      "Remove any clothing or jewelry near the burn area, but do not attempt to remove anything sticking to the burn.",
+      "Cover the burn with a sterile dressing or clean cloth (non-stick).",
+      "Do not pop blisters because it may cause infections.",
+      "Do not use any sprays, ointments, greases, or butter on a burn as they keep the heat in.",
+      "Seek medical help if the burn is severe or covers a large area of the body."
+    ]
+  },
+  "poisoning": {
+    "emergency": "If the person is unconscious, having difficulty breathing, or having seizures, call 999 immediately.",
+    "steps": [
+      "If the person is conscious and alert, call the Poison Control Center or seek medical help.",
+      "Provide the Poison Control Center or medical professionals with information about the substance ingested, if known.",
+      "Do not induce vomiting unless instructed to do so by medical professionals.",
+      "Do not give the person anything to eat or drink."
+    ]
+  },
+  "drug overdose": {
+    "emergency": "If the person is unconscious, having difficulty breathing, or having seizures, call 999 immediately.",
+    "steps": [
+      "Administer an overdose reversal medication like naloxone if available.",
+      "Try to keep the person awake and breathing.",
+      "Lay the person on their side to prevent choking.",
+      "Stay with the person until emergency assistance arrives.",
+      "Provide information about the type and amount of drug taken to medical professionals.",
+      "Do not attempt to induce vomiting unless instructed to do so by medical professionals."
+    ]
+  },
+  "feeling dizzy or weak from diabetes": {
+    "emergency": "If the person is unconscious or having a seizure, call 999 immediately.",
+    "steps": [
+      "If the person is conscious but experiencing symptoms of hypoglycemia (low blood sugar), give them sugar in the form of glucose tablets, fruit juice, or a sugary drink.",
+      "If the person is conscious but experiencing symptoms of hyperglycemia (high blood sugar), encourage them to drink water and seek medical help if necessary.",
+      "Monitor the person's condition and provide assistance as needed.",
+      "If the person becomes unresponsive at any point, open their airways and prepare to do CPR."
+    ]
+  },
+  "drowning": {
+    "emergency": "Remove the person from the water immediately, if possible.",
+    "steps": [
+      "Alert the lifeguard or call for help.",
+      "Throw a flotation device or extend a long pole for the drowning person to hold onto.",
+      "If you are a trained and confident swimmer, dive in to rescue the person.",
+      "Take the drowning person out of the water and lay them flat on a dry surface.",
+      "Check for breathing and pulse. If the person is not breathing, start CPR.",
+      "If the person is breathing, place them in the recovery position and monitor their breathing and pulse.",
+      "Call 999 and continue to provide first aid until help arrives."
+    ]
+  },
+  "feeling overheated or faint from heat (heat stroke)": {
+    "emergency": "Move the person to a cooler place and remove excess clothing.",
+    "steps": [
+      "Cool the person by spraying or sponging them with cool water and fanning them.",
+      "Place ice packs or cool, wet towels on the neck, armpits, and groin.",
+      "Cover the person with cool, damp sheets.",
+      "Have the person drink cool water if they are able to swallow.",
+      "Seek medical help immediately as heat stroke can be life-threatening."
+    ]
+  },
+  "freezing cold and shivering (hypothermia)": {
+    "emergency": "Be gentle. When helping someone with hypothermia, handle them gently.",
+    "steps": [
+      "Move the person to a warm place and remove any wet clothing.",
+      "Wrap the person in blankets or warm clothing, covering their head and neck.",
+      "Insulate the person's body from the cold ground.",
+      "Monitor breathing.",
+      "Provide warm liquids to drink if the person is conscious and able to swallow.",
+      "Monitor the person's condition and seek medical help if necessary."
+    ]
+  },
+  "severe allergic reaction (swelling or hard to breathe)": {
+    "emergency": "Call emergency services immediately (999).",
+    "steps": [
+      "Help the person sit or lie down in a comfortable position.",
+      "If the person has an epinephrine auto-injector (EpiPen), assist them in using it.",
+      "Monitor the person's breathing and vital signs.",
+      "Stay with the person until medical help arrives."
+    ]
+  },
+  "asthma attack": {
+    "emergency": "Assist the person in using their inhaler immediately.",
+    "steps": [
+      "Help the person sit upright and assist them in using their inhaler.",
+      "Encourage slow, deep breaths.",
+      "If the person's symptoms worsen or they have difficulty breathing, call emergency services (999).",
+      "Reassure the person and stay with them until help arrives."
+    ]
+  },
+  "choking": {
+    "emergency": "If the person cannot speak, breathe, or cough, perform abdominal thrusts (Heimlich maneuver).",
+    "steps": [
+      "Encourage the person to cough forcefully.",
+      "If the person cannot speak, breathe, or cough, perform abdominal thrusts (Heimlich maneuver).",
+      "If the person becomes unconscious, call emergency services (999) and begin CPR.",
+      "Continue providing assistance until medical help arrives."
+    ]
+  },
+  "severe bleeding (hemorrhage)": {
+    "emergency": "If bleeding does not stop or is severe, call emergency services (999).",
+    "steps": [
+      "Remove any clothing or debris from the wound.",
+      "Apply direct pressure to the wound using a clean cloth or bandage.",
+      "Help the injured person lie down.",
+      "Add more bandages as needed.",
+      "Monitor the person's condition while waiting for medical help."
+    ]
+  },
+  "head injury": {
+    "emergency": "If the person experiences confusion, loss of consciousness, or vomiting, call emergency services (999).",
+    "steps": [
+      "Keep the person still and encourage them not to move.",
+      "Apply a cold pack or cloth to the injured area to reduce swelling.",
+      "Monitor the person's condition and seek medical help promptly."
+    ]
+  },
+  "seizure": {
+    "emergency": "If the seizure lasts longer than five minutes, call emergency services (999).",
+    "steps": [
+      "Only move them if they're in danger, such as near a busy road or hot cooker.",
+      "Cushion their head if they're on the ground.",
+      "Loosen any tight clothing around their neck, such as a collar or tie, to aid breathing.",
+      "Turn them onto their side after their convulsions stop.",
+      "Stay with them and talk to them calmly until they recover.",
+      "Note the time the seizure starts and finishes."
+    ]
+  },
+  "shock (hypovolemic, septic, anaphylactic)": {
+    "emergency": "If the person shows signs of severe shock (pale skin, rapid breathing, weak pulse), call emergency services (999).",
+    "steps": [
+      "Lay the person flat and elevate their legs slightly if no spinal injury is suspected.",
+      "Keep the person still, warm, and comfortable.",
+      "Begin CPR if the person shows no signs of life, such as not breathing, coughing, or moving.",
+      "Loosen tight clothing and, if needed, cover the person with a blanket to prevent chilling.",
+      "Monitor the person's condition and provide reassurance."
+    ]
+  },
+  "fractures (broken bones)": {
+    "emergency": "If the fracture involves the head, neck, or spine, call emergency services (999).",
+    "steps": [
+      "Remove clothing from the injured area. If doing this is very painful, use scissors to cut off the clothing.",
+      "Do not attempt to move or reposition the injured limb.",
+      "Immobilize the injured area using a splint or improvised materials.",
+      "Apply a cold pack or cloth to reduce swelling and pain.",
+      "Monitor the person's condition and seek medical help promptly."
+    ]
+  },
+  "cardiac arrest": {
+    "emergency": "Call emergency services (999) immediately and begin CPR.",
+    "steps": [
+      "Use an automated external defibrillator (AED) if available and follow the prompts.",
+      "Continue CPR until medical help arrives."
+    ]
+  },
+  "chest pain (angina)": {
+    "emergency": "If symptoms worsen or persist, call emergency services (999).",
+    "steps": [
+      "Instruct the casualty to stop what they are doing and help them to sit down.",
+      "Try to reassure them and make them comfortable.",
+      "If the person has been prescribed nitroglycerin and it is within reach, assist them in taking it.",
+      "Monitor the person's condition."
+    ]
+  },
+  "appendicitis": {
+    "emergency": "Call emergency services (999) immediately.",
+    "steps": [
+      "Help the person lie down and keep them still.",
+      "Do not give the person anything to eat or drink.",
+      "Apply a cold pack or cloth to the area to help reduce pain.",
+      "Monitor the person's condition and await medical help."
+    ]
+  },
+  "acute abdominal pain": {
+    "emergency": "Call emergency services (999) immediately.",
+    "steps": [
+      "Help the person lie down and keep them still.",
+      "Place a hot water bottle or heated wheat bag on the abdomen.",
+      "Soak in a warm bath.",
+      "Drink plenty of clear fluids such as water.",
+      "Reduce their intake of coffee, tea, and alcohol as these can make the pain worse.",
+      "Monitor the person's condition and await medical help."
+    ]
+  },
+  "spinal injury": {
+    "emergency": "Call emergency services (999) immediately.",
+    "steps": [
+      "Keep the person still and do not move them unless absolutely necessary.",
+      "Place heavy towels or rolled sheets on both sides of the neck or hold the head and neck to prevent movement.",
+      "Avoid moving the head or neck.",
+      "If the person is conscious and breathing, reassure them and keep them calm.",
+      "If the person is unconscious or not breathing, be prepared to perform CPR.",
+      "Do not attempt to straighten the person's body or move them without medical help."
+    ]
+  },
+  "eye injury": {
+    "emergency": "Seek medical help immediately.",
+    "steps": [
+      "Do not rub or apply pressure to the eye.",
+      "Gently flush the eye with clean water if there is debris or chemical exposure.",
+      "Cover the injured eye with a clean cloth or sterile dressing."
+    ]
+  },
+  "electric shock": {
+    "emergency": "Seek medical help immediately.",
+    "steps": [
+      "Do not touch the person if they are still in contact with the electrical source.",
+      "Turn off the power source if possible or move the person away from the source using a non-conductive object.",
+      "Check the person's breathing and pulse. Perform CPR if necessary."
+    ]
+  },
+  "eclampsia (pregnancy-related hypertension)": {
+    "emergency": "Call emergency services (999) immediately.",
+    "steps": [
+      "Help the person lie on their left side to improve blood flow to the heart.",
+      "Loosen any tight clothing and keep the person cool.",
+      "Do not give the person anything to eat or drink.",
+      "Monitor the person's condition and await medical help."
+    ]
+  },
+  "pneumothorax (collapsed lung)": {
+    "emergency": "Call emergency services (999) immediately.",
+    "steps": [
+      "Help the person sit in a comfortable position, leaning slightly forward.",
+      "Encourage shallow breathing to minimize discomfort.",
+      "Do not attempt to remove or cover the injury site.",
+      "Monitor the person's condition and await medical help."
+    ]
+  },
+  "fainting (syncope)": {
+    "emergency": "If the person does not regain consciousness within a minute or two, seek medical help.",
+    "steps": [
+      "Lay the person flat on their back and raise their legs above the level of their heart.",
+      "Prop up the person's legs about 12 inches (30 centimeters).",
+      "Loosen any tight clothing around their neck and chest.",
+      "To reduce the chance of fainting again, don't get the person up too fast.",
+      "Check their breathing and pulse. If necessary, perform CPR."
+    ]
+  }
+}
+
+
+
+

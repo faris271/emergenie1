@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredericka+the+Great&family=Markazi+Text:wght@400..700&display=swap');
+@font-face {
+    font-family: myFont;
+    src: url(norwester.otf);
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif, 'Roboto';
+    height: 100%;
+    background-image: url('bg.jpg'); /* Replace with the correct path */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif, 'Roboto';
+    height: 100%;
+    
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column; /* Stacks sections vertically for all screen sizes */
+    align-items: center;
+    flex-wrap: nowrap; /* Prevent wrapping */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px; /* Add padding for better spacing */
+}
+
+.left-section, .right-section {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    color: white;
+    align-items: center;
+    width: 100%; /* Ensures both sections take up full width */
+    text-align: center;
+    margin-bottom: 20px; /* Adds space between sections */
+}
+
+img {
+    width: 100%; /* Makes the image responsive */
+    max-width: 700px; /* Limits maximum width for larger screens */
+    height: auto; /* Maintains aspect ratio */
+}
+
+.left-section h1 {
+    font-size: 48px; /* Scaled for smaller devices */
+    margin-bottom: 20px;
+    color: #000000;
+    font-family: myFont;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 2px 2px 15px rgb(255, 255, 255);
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row; /* Stacks buttons vertically */
+    justify-content: center;
+    gap: 80px; /* Adds spacing between buttons */
+    margin-top: 20px;
+    width: 100%; /* Adjusts width for better responsiveness */
+    margin-left: -90px;
+}
+
+#bar {
+    display: flex;
+    flex-direction: column-reverse; /* Stacks search bar and dropdown */
+    align-items: center;
+    width: 100%;
+}
+
+#emergencyForm {
+    display: flex;
+    flex-direction: row; /* Stacks input and button vertically */
+    align-items: center;
+    width: 100%;
+}
+
+input#emergencySearch {
+    padding: 15px; /* Reduced padding for smaller devices */
+    border: 2px solid #000000;
+    border-radius: 40px;
+    font-size: 18px; /* Adjusted for readability on small screens */
+    width: 90%; /* Takes up most of the width */
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+input#emergencySearch:focus {
+    outline: none;
+    border: 2px solid #ccc;
+}
+
+button[type="submit"] {
+    padding: 15px 20px;
+    background-color: #333;
+    color: white;
+    border-radius: 35px;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 10px;
+}
+
+img.searchbttn {
+    height: 20px;
+    width: 20px;
+}
+
+button[type="submit"]:hover {
+    background-color: #555;
+}
+
+.dropdown {
+    background-color: #fff;
+    max-height: 150px;
+    overflow-y: auto;
+    color: #333;
+    width: 87%; /* Makes dropdown responsive */
+    position: relative;
+    display: inline-block;
+    margin-top: -10px;
+    margin-right: 80px;
+    border-radius: 10px;
+}
+
+button[onclick="openPopup()"] {
+    padding: 10px 20px;
+    font-size: 18px; /* Adjusted for smaller devices */
+    cursor: pointer;
+    background-color: whitesmoke;
+    border: 3px #000000;
+    border-radius: 30px;
+    font-family: myFont;
+}
+
+button[onclick="openPopup()"]:hover {
+    background-color: #c0bcbc;
+}
+
+button#redirectButton {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: myFont;
+}
+
+button#redirectButton:hover {
+    background-color: #c0bcbc;
+}
+
+h1 {
+    font-size: 48px; /* Reduced title size for smaller screens */
+}
+
+button#redirectButton, button[onclick="openPopup()"] {
+    font-size: 18px;
+    padding: 15px;
+}
+
+/* Media Query for small devices */
+@media (max-width: 768px) {
+    body, html {
+        height: auto; /* Allows content to scroll */
+        margin-top: 50px;
+    }
+
+    #buttons {
+        flex-direction: row;
+        gap: 10px; /* Adjust spacing for smaller devices */
+        margin-left: -10px;
+        
+    }
+
+    input#emergencySearch {
+        font-size: 16px; /* Further reduce input font size */
+        padding: 10px;
+    }
+
+    button[type="submit"], button#redirectButton, button[onclick="openPopup()"] {
+        font-size: 16px; /* Adjust button font size */
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 36px; /* Scale down header further */
+    }
+
+    img {
+        max-width: 100%; /* Ensure the logo fits on small screens */
+    }
+    .dropdown {
+        width: 80%;
+        margin-left: 15px;
+    }
+}
