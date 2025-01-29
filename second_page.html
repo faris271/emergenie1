@@ -130,7 +130,7 @@
       const results = response.rows[0].elements;
 
       const hospitalsList = document.getElementById('hospitals');
-      hospitalsList.innerHTML = '<h2>Health Facilities List</h2>';
+      hospitalsList.innerHTML = '<h2>Kemudahan Kesihatan Terdekat</h2>';
 
       for (let i = 0; i < destinations.length; i++) {
         const mapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(places[i].name)}&query_place_id=${places[i].place_id}`;
@@ -140,18 +140,16 @@
           <div class="facility">
             <h3><a href="${mapsLink}" target="_blank">${places[i].name}</a></h3>
             <p>${destinations[i]}<br>
-            Distance: ${results[i].distance.text}<br>
-            Duration: ${results[i].duration.text}<br>
-            Phone: ${phoneNumber}</p>
+            Jarak: ${results[i].distance.text}<br>
+            Masa: ${results[i].duration.text}<br>
+            Tel: ${phoneNumber}</p>
           </div>`;
       }
     }
 
     window.onload = initMap;
 </script>
-</div>
+    </div>
   </div>
-
-</content>
 </body>
 </html>
